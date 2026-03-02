@@ -1,0 +1,55 @@
+[33mcommit bfe94cdee3e9d8e7c109866e8ec0f499b60e0266[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;32mstaging[m[33m, [m[1;32mdev[m[33m)[m
+Merge: 6ec2656 500664e
+Author: Josephudomason <josephudomason5@gmail.com>
+Date:   Mon Mar 2 13:19:09 2026 -0500
+
+    merge problem resolved
+
+[33mcommit 6ec2656cd907da0fe3ec77dae2f214edb0fc9725[m
+Author: Josephudomason <josephudomason5@gmail.com>
+Date:   Mon Mar 2 13:13:40 2026 -0500
+
+    i added 444 on fourth txt
+
+[33mcommit 500664e6ab739d4756eff99fdb54e0212787749f[m
+Author: Josephudomason <josephudomason5@gmail.com>
+Date:   Mon Mar 2 13:11:17 2026 -0500
+
+    i modify the fourth txt file
+
+[33mcommit 801f34ee6fbc94086c04b4da47c37700b49b15bf[m
+Merge: 361fe9c 8ed5cc8
+Author: Josephudomason <josephudomason5@gmail.com>
+Date:   Sun Mar 1 20:39:44 2026 -0500
+
+    merging main into dev
+
+[33mcommit 8ed5cc873b1ed5ee524390d52e6da4330a489153[m
+Author: Josephudomason <josephudomason5@gmail.com>
+Date:   Sun Mar 1 20:38:13 2026 -0500
+
+    i changes four.txt
+
+[33mcommit 361fe9cc7a38516b043276c1a6f54e6cbc19a4a8[m
+Author: Josephudomason <josephudomason5@gmail.com>
+Date:   Sun Mar 1 20:35:19 2026 -0500
+
+    new weeee
+
+[33mcommit 268b63251ee1e37c3a928cb21beb4c75bb7633b6[m
+Author: Josephudomason <josephudomason5@gmail.com>
+Date:   Sun Mar 1 17:38:46 2026 -0500
+
+    i have made some changes to the files
+
+[33mcommit cb479bc44e551448b22a240308e3919666a34598[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Josephudomason <josephudomason5@gmail.com>
+Date:   Sun Mar 1 10:59:08 2026 -0500
+
+    Add two.txt with initial content 'two'
+
+[33mcommit 082c35dab332f4657a2cf66b7dcacef3f6432aec[m
+Author: Josephudomason <josephudomason5@gmail.com>
+Date:   Sun Mar 1 10:58:05 2026 -0500
+
+    Add one.txt with initial content 'one'
